@@ -1,5 +1,7 @@
 # H1_Extra_beach_chair
 
+2 out of 4 difficulty extra assignment.
+
 Program that outputs 6*9 (54) chairs.
 You cant sit on any chair though. Due to corona restrictions, you can only sit on a chair which isnt next to a stranger.
 An example of a seat would be "00 " or "000", in which you can sit in the middle.
